@@ -1,8 +1,8 @@
 
-while true :
-print("hello world")
+while True :
+    print("hello world")
 
-print("this is new change")
+    print("this is new change")
 
-print("lets make new commit")
+    print("lets make new commit")
 
